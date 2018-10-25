@@ -1,2 +1,2 @@
-# Projeto2_cd18
+# Projeto2_NaiveBayes
 Dupla: Pedro Paulo Mendonça Telho e Caio Fauza
